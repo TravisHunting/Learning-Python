@@ -26,3 +26,18 @@ There must be at least 2 stores located in the “internal” regions
 The average location attractiveness value must be at least 14.9
 
 --- 
+
+## Images of problem 
+
+Problem as seen on computer screen. 
+
+![problem on computer](./images/IMG_20191213_212400_583.jpg)
+
+Image of tiles as seen on computer screen.
+
+![tiles on computer](./images/IMG_20191213_212405_332.jpg)
+
+Excel spreadsheet of values as seen on screen
+
+![excel on computer](./images/IMG_20191213_212408_447.jpg)
+
